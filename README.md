@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shakiralynch1
-- 👀 I’m a third year student currently studying software development
+- 👀 I’m a third year student currently studying Software Development @DKIT
 - 📫 How to reach me LinkedIn @https://www.linkedin.com/in/shakira-lynch/
 
 <!---
